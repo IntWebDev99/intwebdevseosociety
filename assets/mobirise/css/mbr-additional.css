@@ -808,6 +808,10 @@ section.lazy-placeholder:after {
 .cid-rNC01UtDmy H1 {
   color: #ff3366;
 }
+.cid-rNC01UtDmy .mbr-text,
+.cid-rNC01UtDmy .mbr-section-btn {
+  color: #431e45;
+}
 .cid-rNZXUKl0oD {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -1492,7 +1496,7 @@ section.lazy-placeholder:after {
 .cid-s3i8crq2s9 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #7e6679;
+  background-image: url("../../../assets/images/logo-placeit-int-web-dev-122x122.png");
 }
 .cid-s3i8crq2s9 .socicon-bg-facebook {
   background: #3e5b98;
@@ -1541,6 +1545,9 @@ section.lazy-placeholder:after {
 }
 .cid-s3i8crq2s9 .btn-social + .btn {
   margin-left: .1rem;
+}
+.cid-s3i8crq2s9 .btn-social {
+  border-radius: 0 !important;
 }
 .cid-s3i8crq2s9 [class^="socicon-"]:before,
 .cid-s3i8crq2s9 [class*=" socicon-"]:before {
